@@ -1,3 +1,5 @@
+# Ziping Zhang
+
 # Contents of docs folder
 
 This folder should contain the main scientific product of the project as
